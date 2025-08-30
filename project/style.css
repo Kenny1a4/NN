@@ -245,8 +245,6 @@ blockquote {
 }
 
 
-
-
 /* ===== FOOTER ===== */
 footer { background: #141210; text-align: center; padding: 20px; font-size: 0.9rem; color: #aaa; }
 /* Загальні картки меню */
@@ -267,4 +265,5 @@ footer { background: #141210; text-align: center; padding: 20px; font-size: 0.9r
 #beans .item img {
     height: 580px;   /* фото вище тільки для beans */
     object-fit: cover;
+
 }
